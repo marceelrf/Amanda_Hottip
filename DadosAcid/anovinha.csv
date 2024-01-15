@@ -1,0 +1,45 @@
+trial,year,location,state,treatments,n_spray,brand_name,group,active_ingred,sev,yield
+18,2016,Bixby,OK,1,0,check,check,check,75.8,63
+18,2016,Bixby,OK,3,1,Aproach Prima,QoI + DMI,cyproconazole + picoxystrobin,57.5,63.4
+18,2016,Bixby,OK,4,1,Folicur ,DMI,tebuconazole,48.3,60.6
+18,2016,Bixby,OK,6,1,Quilt Xcel,QoI + DMI,azoxystrobin + propiconazole,40.9,65.8
+18,2016,Bixby,OK,7,1,Headline ,QoI,pyraclostrobin,55,66.4
+18,2016,Bixby,OK,8,1,Priaxor ,QoI + SDHI,pyraclostrobin + fluxapyroxad,49.9,64.6
+18,2016,Bixby,OK,10,1,Topguard ,DMI,flutriafol,48.3,60.1
+19,2016,Stillwater,OK,1,0,check,check,check,61.6,61.4
+19,2016,Stillwater,OK,3,1,Aproach Prima,QoI + DMI,cyproconazole + picoxystrobin,27.5,66.6
+19,2016,Stillwater,OK,4,1,Folicur ,DMI,tebuconazole,41.3,66.8
+19,2016,Stillwater,OK,6,1,Quilt Xcel,QoI + DMI,azoxystrobin + propiconazole,24.6,65.4
+19,2016,Stillwater,OK,7,1,Headline ,QoI,pyraclostrobin,22.9,63
+19,2016,Stillwater,OK,8,1,Priaxor ,QoI + SDHI,pyraclostrobin + fluxapyroxad,17.9,71.9
+19,2016,Stillwater,OK,10,1,Topguard ,DMI,flutriafol,39.6,63.5
+20,2017,Bixby,OK,1,0,check,check,check,65.7,45.1
+20,2017,Bixby,OK,3,1,Aproach Prima,QoI + DMI,cyproconazole + picoxystrobin,42.5,45.6
+20,2017,Bixby,OK,4,1,Folicur ,DMI,tebuconazole,43.7,47
+20,2017,Bixby,OK,5,1,Quilt Xcel,QoI + DMI,azoxystrobin + propiconazole,38.7,49
+20,2017,Bixby,OK,7,1,Headline ,QoI,pyraclostrobin,21.2,49.7
+20,2017,Bixby,OK,8,1,Priaxor ,QoI + SDHI,pyraclostrobin + fluxapyroxad,25,44.5
+21,2017,Stillwater,OK,1,0,check,check,check,80.8,47.7
+21,2017,Stillwater,OK,3,1,Aproach Prima,QoI + DMI,cyproconazole + picoxystrobin,50.4,52.8
+21,2017,Stillwater,OK,4,1,Folicur ,DMI,tebuconazole,63.3,50.3
+21,2017,Stillwater,OK,5,1,Quilt Xcel,QoI + DMI,azoxystrobin + propiconazole,55.8,47.5
+21,2017,Stillwater,OK,7,1,Headline ,QoI,pyraclostrobin,44.6,51.3
+21,2017,Stillwater,OK,8,1,Priaxor ,QoI + SDHI,pyraclostrobin + fluxapyroxad,21.7,52.5
+22,2018,Bixby,OK,1,0,check,check,check,37.9,40.7
+22,2018,Bixby,OK,2,1,Aproach Prima,QoI + DMI,cyproconazole + picoxystrobin,17.9,39.7
+23,2018,Stillwater,OK,1,0,check,check,check,86.7,36.7
+23,2018,Stillwater,OK,3,1,Aproach Prima,QoI + DMI,cyproconazole + picoxystrobin,35,31.9
+23,2018,Stillwater,OK,4,1,Folicur,DMI,tebuconazole,65,47.2
+23,2018,Stillwater,OK,5,1,Quilt Xcel,QoI + DMI,azoxystrobin + propiconazole,67.5,43.2
+23,2018,Stillwater,OK,7,1,Headline,QoI,pyraclostrobin,60.8,46.3
+23,2018,Stillwater,OK,8,1,Priaxor ,QoI + SDHI,pyraclostrobin + fluxapyroxad,45.8,47.9
+24,2019,Stillwater,OK,1,0,check,check,check,47.8,43.7
+24,2019,Stillwater,OK,2,1,Folicur ,DMI,tebuconazole,38.7,49.9
+24,2019,Stillwater,OK,3,1,Quilt Xcel,QoI + DMI,azoxystrobin + propiconazole,25,39.9
+24,2019,Stillwater,OK,4,1,Headline ,QoI,pyraclostrobin,44.4,51.9
+24,2019,Stillwater,OK,6,1,Priaxor ,QoI + SDHI,pyraclostrobin + fluxapyroxad,18.3,52.7
+25,2019,Bixby,OK,1,0,check,check,check,45.0,43.9
+25,2019,Bixby,OK,2,1,Folicur ,DMI,tebuconazole,45.0,45.2
+25,2019,Bixby,OK,3,1,Quilt Xcel,QoI + DMI,azoxystrobin + propiconazole,45.0,50.2
+25,2019,Bixby,OK,5,1,Headline,QoI,pyraclostrobin,45.0,50.8
+25,2019,Bixby,OK,6,1,Priaxor ,QoI + SDHI,pyraclostrobin + fluxapyroxad,45.0,48.4
