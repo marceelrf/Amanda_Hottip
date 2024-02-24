@@ -1,0 +1,220 @@
+]633;C]633;E;IFS= read -r line;bec153f9-d9fc-473b-8df7-b085f9e80b53>HOTTIP_consensus
+>hsa-miR-133a-5p
+((((((((&)))))))) 574,581 :   8,15  (-5.18 = -6.01 + 0.83 + 0.00)
+UCUAUUUU&AAAAUGGA
+RNAup output in file: hsa-miR-133a-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-140-3p
+((.((((((&)))))).)) 191,199 :   5,13  (-5.53 = -11.49 + 2.79 + 3.18)
+CUUCCCUGU&ACAGGGUAG
+RNAup output in file: hsa-miR-140-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-143-3p
+(((((((&))))))) 472,478 :   7,13  (-9.13 = -11.40 + 0.40 + 1.87)
+GUGCUUC&GAAGCAC
+RNAup output in file: hsa-miR-143-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-143-5p
+(((((((((..(.(((((((&))))))).).))..))))))) 155,174 :   2,22  (-8.12 = -20.73 + 5.87 + 6.74)
+ACUGGAGGCUUGGACUGCAU&GUGCAGUGCUGCAUCUCUGGU
+RNAup output in file: hsa-miR-143-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-188-3p
+(((((&))))) 238,242 :  13,17  (-6.82 = -7.70 + 0.11 + 0.77)
+GACCC&GGGUU
+RNAup output in file: hsa-miR-188-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-188-5p
+.........&........ 400,408 :   9,16  (-8.98 = -11.14 + 2.00 + 0.16)
+CAUCCAUGC&GCAUGGUG
+RNAup output in file: hsa-miR-188-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-200a-3p
+((((....((.((.(((((((&))))))).))))...)))) 260,280 :   3,21  (-7.91 = -14.35 + 5.09 + 1.35)
+CAUCACACACACACACAGUGU&ACACUGUCUGGUAACGAUG
+RNAup output in file: hsa-miR-200a-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-200a-5p
+(((((((.....((((..((((((&))))))))))..)))))))   5,28  :   3,21  (-7.40 = -19.90 + 8.64 + 3.86)
+CCGGCGCGUAUUUCUGCAGUGAGA&UCUUACCGGACAGUGCUGG
+RNAup output in file: hsa-miR-200a-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-205-3p
+((((((((((((.&.)))))))))))) 567,579 :   7,19  (-9.99 = -15.21 + 0.98 + 4.24)
+AUUUCACUCUAUU&AGUGGAGUGAAGU
+RNAup output in file: hsa-miR-205-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-206
+..................&.................... 343,360 :   1,20  (-14.88 = -17.44 + 2.52 + 0.04)
+ACAACGCUUCCUCCUCCA&UGGAAUGUAAGGAAGUGUGU
+RNAup output in file: hsa-miR-206_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-214-3p
+(((((((.((.((.(((((&))))).)).)).))))))) 109,127 :   4,22  (-11.88 = -21.90 + 8.00 + 2.01)
+GCUGCUUAUCGGUUCCUGC&GCAGGCACAGACAGGCAGU
+RNAup output in file: hsa-miR-214-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-214-5p
+(((((((...(((((&))))).....)))))))  21,35  :   3,19  (-6.02 = -13.66 + 5.60 + 2.04)
+CAGUGAGACCACAGG&CCUGUCUACACUUGCUG
+RNAup output in file: hsa-miR-214-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-217-3p
+((((.((((((((&)))))))))))) 170,182 :   6,17  (-9.39 = -15.92 + 6.15 + 0.38)
+UGCAUUUAGGAGC&GUUCCUAAUGCA
+RNAup output in file: hsa-miR-217-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-217-5p
+((((((((((((((&)))))...))))))))) 116,129 :   3,19  (-8.18 = -18.62 + 6.96 + 3.48)
+AUCGGUUCCUGCGG&CUGCAUCAGGAACUGAU
+RNAup output in file: hsa-miR-217-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-22-3p
+(((..(.(((.(((((.((((&)))).))))).))))..))) 144,164 :   2,21  (-9.48 = -19.00 + 5.26 + 4.26)
+CAGGACAUUCCACUGGAGGCU&AGCUGCCAGUUGAAGAACUG
+RNAup output in file: hsa-miR-22-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-22-5p
+....................&.................... 145,164 :   1,20  (-10.22 = -16.18 + 5.21 + 0.76)
+AGGACAUUCCACUGGAGGCU&AGUUCUUCAGUGGCAAGCUU
+RNAup output in file: hsa-miR-22-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-223-3p
+(((((.(((.(((&))).))).))))) 285,297 :   1,13  (-7.59 = -10.17 + 2.24 + 0.35)
+UGACACACUCACA&UGUCAGUUUGUCA
+RNAup output in file: hsa-miR-223-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-223-5p
+(((((((......(((..((((&))))...)))....))))))) 246,267 :   2,22  (-10.93 = -13.69 + 2.20 + 0.56)
+GACUCAGAACGACUCAUCACAC&GUGUAUUUGACAAGCUGAGUU
+RNAup output in file: hsa-miR-223-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-23b-3p
+(((((((.&.))))))) 336,343 :   7,14  (-8.68 = -12.80 + 2.43 + 1.69)
+CCUGGUAA&UUGCCAGG
+RNAup output in file: hsa-miR-23b-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-23b-5p
+((((((((((((((&)))))))))).)))) 171,184 :   2,16  (-14.11 = -21.07 + 6.17 + 0.79)
+GCAUUUAGGAGCCC&GGGUUCCUGGCAUGC
+RNAup output in file: hsa-miR-23b-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-31-3p
+........................&................. 215,238 :   3,19  (-6.36 = -12.35 + 4.41 + 1.58)
+GCAAUUUCAUAUGUUUGCAUUUAG&CUAUGCCAACAUAUUGC
+RNAup output in file: hsa-miR-31-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-31-5p
+((((((.((((((.(.((&))).)))))).)))))) 224,241 :   2,18  (-7.14 = -14.12 + 4.11 + 2.86)
+UAUGUUUGCAUUUAGACC&GGCAAGAUGCUGGCAUA
+RNAup output in file: hsa-miR-31-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-338-3p
+((((...((((((..((.((((&)))))).))))))....)))) 147,168 :   1,21  (-6.13 = -17.18 + 8.46 + 2.59)
+GACAUUCCACUGGAGGCUUGGA&UCCAGCAUCAGUGAUUUUGUU
+RNAup output in file: hsa-miR-338-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-338-5p
+((((((.....((((&)))))))))) 290,304 :  13,22  (-11.34 = -11.91 + 0.34 + 0.23)
+CACUCACAUUCGCAC&GUGCUGAGUG
+RNAup output in file: hsa-miR-338-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-339-3p
+(((((((((((((&)))))))....)))))) 597,609 :   6,22  (-5.65 = -20.34 + 11.38 + 3.30)
+GGCUCUUUGGGGC&GCCUCGACGACAGAGCC
+RNAup output in file: hsa-miR-339-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-339-5p
+(((((.((..(((((((&)))))))...))..)))))  23,39  :   4,22  (-7.82 = -19.22 + 6.98 + 4.42)
+GUGAGACCACAGGACGG&CUGUCCUCCAGGAGCUCAC
+RNAup output in file: hsa-miR-339-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-34c-3p
+((((.((.....((((((((&)))))))).....)).)))) 195,214 :   3,22  (-9.66 = -17.54 + 6.55 + 1.33)
+CCUGUCCACACUGUUAGUGA&UCACUAACCACACGGCCAGG
+RNAup output in file: hsa-miR-34c-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-34c-5p
+((((.(((((.(((&))).))))).)))) 341,354 :   1,14  (-7.41 = -11.45 + 0.46 + 3.58)
+UAACAACGCUUCCU&AGGCAGUGUAGUUA
+RNAup output in file: hsa-miR-34c-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-375-3p
+(((((.((...(((((((((&))))))))))))))))  23,42  :   3,18  (-10.27 = -20.23 + 8.98 + 0.97)
+GUGAGACCACAGGACGGACA&UGUUCGUUCGGCUCGC
+RNAup output in file: hsa-miR-375-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-375-5p
+(((((((&))))))) 595,601 :   6,12  (-7.43 = -16.10 + 8.09 + 0.58)
+GGGGCUC&GAGCCCC
+RNAup output in file: hsa-miR-375-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-449b-3p
+((((((((((((((.((((&))))...))).)))))))))))  94,112 :   1,22  (-17.96 = -28.43 + 10.27 + 0.19)
+AGUGGCAGGGUGUUUGCUG&CAGCCACAACUACCCUGCCACU
+RNAup output in file: hsa-miR-449b-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-449b-5p
+((.(.((((((((((.(((&))).)))))..))))).).)) 336,354 :   1,21  (-9.15 = -16.33 + 3.04 + 4.14)
+CCUGGUAACAACGCUUCCU&AGGCAGUGUAUUGUUAGCUGG
+RNAup output in file: hsa-miR-449b-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-503-3p
+(((((((((((.(((((&))))).))))......))))))) 336,352 :   1,23  (-9.87 = -16.47 + 2.79 + 3.81)
+CCUGGUAACAACGCUUC&GGGGUAUUGUUUCCGCUGCCAGG
+RNAup output in file: hsa-miR-503-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-503-5p
+(((((((((((((((((&))))))..))))).))))))  98,114 :   2,21  (-6.07 = -21.58 + 9.38 + 6.12)
+GCAGGGUGUUUGCUGCU&AGCAGCGGGAACAGUUCUGC
+RNAup output in file: hsa-miR-503-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-542-3p
+((((..(((((..(((((&))))).)).)))....)))) 249,266 :   1,20  (-6.15 = -8.95 + 1.66 + 1.14)
+UCAGAACGACUCAUCACA&UGUGACAGAUUGAUAACUGA
+RNAup output in file: hsa-miR-542-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-542-5p
+((.((.(((.....(((((&)))))......))).)).)) 337,355 :   3,22  (-5.91 = -12.08 + 3.02 + 3.15)
+CUGGUAACAACGCUUCCUC&GGGGAUCAUCAUGUCACGAG
+RNAup output in file: hsa-miR-542-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-637
+((((..((((((((((&))))))).....)))....)))) 346,361 :   2,24  (-7.78 = -17.54 + 2.48 + 7.28)
+ACGCUUCCUCCUCCAG&CUGGGGGCUUUCGGGCUCUGCGU
+RNAup output in file: hsa-miR-637_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-6769b-3p
+((((..((((((.(((...((((&)))).)))))))))...)))) 575,597 :   1,21  (-9.31 = -19.55 + 10.12 + 0.13)
+CUAUUUUGGGACAAGAAAAAGGG&CCCUCUCUGUCCCACCCAUAG
+RNAup output in file: hsa-miR-6769b-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-6769b-5p
+.((.(((...(.((((((.(((((&)))))))))))).))))). 398,421 :   1,19  (-19.65 = -24.61 + 4.92 + 0.05)
+UUCAUCCAUGCUCCCACCUCGCCA&UGGUGGGUGGGGAGGAGAA
+RNAup output in file: hsa-miR-6769b-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-874-3p
+(((((&))))) 606,610 :   8,12  (-8.93 = -12.30 + 3.31 + 0.06)
+GGGCC&GGCCC
+RNAup output in file: hsa-miR-874-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-874-5p
+(((((((&))))))) 604,610 :   2,8   (-8.50 = -16.30 + 3.52 + 4.27)
+UGGGGCC&GGCCCCA
+RNAup output in file: hsa-miR-874-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-92a-1-5p
+(((((..(.((((...(((((..((&))..))))).)))).)))))) 171,195 :   2,22  (-12.71 = -21.42 + 6.27 + 2.44)
+GCAUUUAGGAGCCCCUAUCCCUUCC&GGUUGGGAUCGGUUGCAAUGC
+RNAup output in file: hsa-miR-92a-1-5p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-93-3p
+(((((((((((&))))))))))) 427,437 :   4,14  (-7.62 = -18.30 + 7.37 + 3.31)
+GCUGGCUUAGU&GCUGAGCUAGC
+RNAup output in file: hsa-miR-93-3p_HOTTIP_consensus_w25_u1.out
+>HOTTIP_consensus
+>hsa-miR-93-5p
+(((((..((((.(((((&))))).))))....))))) 335,351 :   3,21  (-8.13 = -14.61 + 2.79 + 3.69)
+ACCUGGUAACAACGCUU&AAGUGCUGUUCGUGCAGGU
+RNAup output in file: hsa-miR-93-5p_HOTTIP_consensus_w25_u1.out
